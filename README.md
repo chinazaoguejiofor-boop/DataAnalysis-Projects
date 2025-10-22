@@ -1,4 +1,4 @@
-This repository contains three comprehensive Excel-based data analytics projects — Atiliq Mart, BlinkIT Grocery Store, and International Breweries — each showcasing advanced skills in data cleaning, analysis, visualization, and storytelling.
+This contains three comprehensive Excel-based data analytics projects — Atiliq Mart, BlinkIT Grocery Store, and International Breweries — each showcasing advanced skills in data cleaning, analysis, visualization, and storytelling.
 
 Every project presents a real-world business scenario, explored through interactive dashboards that provide actionable insights for decision-makers. The dashboards cover key business functions such as sales optimization, customer behavior analysis, product performance tracking, and market expansion strategies.
 
